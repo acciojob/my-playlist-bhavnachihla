@@ -1,5 +1,4 @@
-/*  your css code here. If applicable */
- <style>
+
         body {
             background-color: rgb(204, 204, 204);
         }
@@ -28,5 +27,4 @@
             background-color: rgb(255, 255, 255);
             padding: 10px;
             border-radius: 10px;
-        }
-    </style>
+		}
